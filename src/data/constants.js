@@ -232,10 +232,10 @@ export const experiences = [
   
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/harshaportfolio-2005.appspot.com/o/internshala_og_image.jpg?alt=media&token=9f89d8b8-0935-45ff-80d3-565178bf811a",
+    img: "https://firebasestorage.googleapis.com/v0/b/portfolio-70d58.appspot.com/o/internshala.png?alt=media&token=3a551b18-926d-4624-90ea-1b65f942abb8",
     role: "Web Developer Intern",
     company: "Internshala",
-    date: "July 2023 - September 2023",
+    date: "August 2023 - October 2023",
     desc : "During my internship with Internshala Remote, I played a key role in developing the responsive web interface for PG Life. Using HTML, CSS, and JavaScript, I crafted a user-friendly experience that garnered positive feedback for its usability. Additionally, I focused on enhancing user engagement by implementing a contemporary design and strategically utilizing Bootstrap. This approach led to a significant increase in the average session duration, reflecting the success of the project. Furthermore, I took charge of revamping the PHP and MySQL database integration in PG Life, achieving an impressive average response time of less than 100ms. To ensure efficient version control and streamlined query execution, I implemented Git for Version Control and SQL. These efforts collectively contributed to the optimization of PG Life's performance and user experience.",
     skills: [
       "HTML",
@@ -246,13 +246,13 @@ export const experiences = [
       "PHP"
 
     ],
-    doc : "https://firebasestorage.googleapis.com/v0/b/harshaportfolio-2005.appspot.com/o/Web%20Development%20Training%20-%20Certificate%20of%20Completion_page-0001.jpg?alt=media&token=5b8c8501-e605-451f-83d9-dc9695e4c54f",
+    doc : "https://firebasestorage.googleapis.com/v0/b/portfolio-70d58.appspot.com/o/Web%20Development%20Training%20-%20Certificate%20of%20Completion.pdf?alt=media&token=c3935f15-8f97-44ba-bb9e-5d45566beb05",
   },
 ];
 export const education = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/harshaportfolio-2005.appspot.com/o/vvit.jpg?alt=media&token=8e2d3d4a-b947-4236-838d-1fa9c33e461e",
+    img: "https://firebasestorage.googleapis.com/v0/b/portfolio-70d58.appspot.com/o/vvit.jpg?alt=media&token=6e3e3655-3d51-43f5-a864-224deb13ad3d",
     school: "Vasireddy Venkatadri Institute of Technology, Guntur",
     date: "July 2020 - June 2024",
     grade: "8.06 CGPA",
@@ -261,7 +261,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://drive.google.com/file/d/1IpLsFDre5whSUhTyBIhx7yUmr_K8HGgz/view?usp=sharing",
+    img: "https://firebasestorage.googleapis.com/v0/b/portfolio-70d58.appspot.com/o/vyshanvi%20jr%20clg.jpg?alt=media&token=ab40c355-6b06-4f94-9239-59528781f947",
     school: "Vyshanvi Junior College, Tenali, Andhra Pradesh",
     date: "May 2018 - May 2020",
     grade: "91%",
@@ -270,7 +270,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "",
+    img: "https://firebasestorage.googleapis.com/v0/b/portfolio-70d58.appspot.com/o/zphs.jpg?alt=media&token=87215c2a-afa4-4586-8541-c38f0eaa43c7",
     school: "ZP High School, Burripalem, Andhra Pradesh",
     date: "May 2017 - Apr 2018",
     grade: "9.3 CGPA",
@@ -286,7 +286,7 @@ export const projects = [
     description:
       "Created EmpowerRecruit, a game-changing recruitment platform using cutting-edge tech. Led frontend design with React.js, ensuring a responsive interface, while Node.js powered backend operations. Used Tailwind CSS for sleek styling, enhancing user experience. Integrated Twilio for real-time notifications, reducing response time for application status updates. Leveraged Express.js for efficient server maintenance. Employed advanced NLP for accurate resume parsing and job role generation, boosting efficiency. Provided personalized job recommendations based on user skills, increasing engagement. Streamlined job listing and candidate shortlisting, reducing recruiter workload. Implemented job parsing and candidate compatibility scoring, sorting applications based on recruiter needs.",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/harshaportfolio-2005.appspot.com/o/placement1.png?alt=media&token=50158ce9-5d5a-4d1c-9dc1-edc0ec6a0893",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-70d58.appspot.com/o/Placements-CBIT.png?alt=media&token=dc94dea0-d0b2-4e0a-9d7a-6a9a03227f83",
     tags: [
       "React Js",
       "TailwindCSS",
@@ -310,7 +310,7 @@ export const projects = [
     description:
       "Deployed a Python based WhatsApp bot with integrated Twilio API, Django, and MongoDB, optimizing customer requests and reducing response time. Ensured a streamlined food ordering experience exclusively through WhatsApp using this bot, eliminating the need for additional food delivery apps, while maintaining comprehensive test coverage across various scenarios and functions. Assessed customer satisfaction before and after implementation, showing a significant improvement. Analyzed customer interactions, resulting in an increase in engagement and frequency of interaction.",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/harshaportfolio-2005.appspot.com/o/whatsappbot.webp?alt=media&token=4992311f-456e-416a-a933-0748f1c805fb",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-70d58.appspot.com/o/WhatsApp-Food-Delivery-.jpg?alt=media&token=7b3b9e9b-2905-4fef-a5bf-3769d33c8ae1",
     tags: ["Python","Flask","Django","MongoDB","Twilio"],
     category: "machine learning",
     github: "",
@@ -324,11 +324,23 @@ export const projects = [
     description:
       "Created a responsive portfolio website using ReactJS, showcasing skills, projects, and achievements in a visually appealing and user-friendly manner. The portfolio features a modern design with smooth animations and transitions, providing an engaging user experience across desktop, tablet, and mobile devices. Implemented features include a dynamic project gallery, interactive skill charts, and a contact form for inquiries. The responsive ReactJS portfolio demonstrates a strong proficiency in front-end development and design principles.",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/harshaportfolio-2005.appspot.com/o/portfolio.webp?alt=media&token=eed4dd21-3c8d-434b-9999-127775a460ba",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-70d58.appspot.com/o/portfolio.png?alt=media&token=1dcde1a2-3dad-4222-b7fc-1f05c51d0517",
     tags: ["HTML","CSS","JavaScript","ReactJS","TailwindCSS"],
     category: "web app",
     github: "https://github.com/busijoseph826/joseph_portfolio",
     webapp: "https://joseph-porfolio.vercel.app/",
+  },
+  {
+    id: 4,
+    title: "React News Application",
+    description:
+      "Created a responsive news aggregator application using ReactJS, which fetches and displays news articles from a public API. The application allows users to filter articles based on categories and navigate through articles efficiently using a pagination system. NewsHub features a sleek and modern design with smooth animations and transitions, ensuring an engaging user experience across desktop, tablet, and mobile devices. This project highlights my skills in front-end development, API integration, and responsive design",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-70d58.appspot.com/o/7k-Thumbnail-2023-01-23T220501.454-1024x576.png?alt=media&token=7b7b220e-da34-42fa-bbe4-50de7c8e00ab",
+    tags: ["HTML","CSS","JavaScript","ReactJS","TailwindCSS"],
+    category: "web app",
+    github: "https://github.com/busijoseph826/React_News_Application",
+    webapp: "",
   },
   
 ];
