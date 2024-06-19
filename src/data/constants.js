@@ -246,7 +246,7 @@ export const experiences = [
       "PHP"
 
     ],
-    doc : "https://firebasestorage.googleapis.com/v0/b/portfolio-70d58.appspot.com/o/Web%20Development%20Training%20-%20Certificate%20of%20Completion.pdf?alt=media&token=c3935f15-8f97-44ba-bb9e-5d45566beb05",
+    doc : "https://firebasestorage.googleapis.com/v0/b/portfolio-70d58.appspot.com/o/Web%20Development%20Training%20-%20Certificate%20of%20Completion_page-0001.jpg?alt=media&token=01da6871-06fb-4603-b6dd-d18c75753244",
   },
 ];
 export const education = [
