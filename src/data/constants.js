@@ -4,6 +4,7 @@ export const Bio = {
     "Full Stack Developer",
     "Front-End Developer",
     "Back-End Developer",
+    "ML Engineer",
     "NLP Engineer"
   ],
   description:"I am Busi Joseph, a dedicated Software Developer with a Bachelor's degree in Computer Science and Engineering (AI & ML). My skill set includes Python, Java, SQL, Cloud Computing, Machine Learning, Artificial Intelligence, and Full Stack Web Development. ",
@@ -27,22 +28,22 @@ export const codingprofiles = [
       {
         name: "HackerRank",
         image: "https://firebasestorage.googleapis.com/v0/b/harshaportfolio-2005.appspot.com/o/hackerrank.png?alt=media&token=d8f62bcd-8241-4de9-a4e8-1867c4f2172d",
-        link: ""
+        link: "https://www.hackerrank.com/profile/busijoseph"
       },
       {
         name: "Coding Ninjas",
         image: "https://firebasestorage.googleapis.com/v0/b/harshaportfolio-2005.appspot.com/o/coding%20ninjas.png?alt=media&token=6ceeefd2-39a7-4124-9f87-2ca8640dd782",
-        link: "",
+        link: "https://www.naukri.com/code360/profile/Josephbusi",
       },
       {
         name: "GeeksforGeeks",
-        link: "",
+        link: "https://www.geeksforgeeks.org/user/busijoseph123/",
         image : "https://firebasestorage.googleapis.com/v0/b/harshaportfolio-2005.appspot.com/o/geeksforgeeks.png?alt=media&token=d0e1890a-f2a7-4bca-91bb-22f898d970df"
       },
       {
         name: "CodeChef",
         image:"https://firebasestorage.googleapis.com/v0/b/harshaportfolio-2005.appspot.com/o/codechef.jpg?alt=media&token=b46c053d-105f-4e68-a093-70666224a723",
-        link: ""
+        link: "https://www.codechef.com/users/josephbusi_853"
       }
   ],}
 
@@ -260,7 +261,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/harshaportfolio-2005.appspot.com/o/naryana.png?alt=media&token=580acf73-dccd-43f4-b331-dffb8a9efada",
+    img: "https://drive.google.com/file/d/1IpLsFDre5whSUhTyBIhx7yUmr_K8HGgz/view?usp=sharing",
     school: "Vyshanvi Junior College, Tenali, Andhra Pradesh",
     date: "May 2018 - May 2020",
     grade: "91%",
@@ -269,7 +270,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://firebasestorage.googleapis.com/v0/b/harshaportfolio-2005.appspot.com/o/holy%20faith.jpg?alt=media&token=ecd321c7-8715-43c3-bcf5-a654bb032447",
+    img: "",
     school: "ZP High School, Burripalem, Andhra Pradesh",
     date: "May 2017 - Apr 2018",
     grade: "9.3 CGPA",
@@ -326,8 +327,8 @@ export const projects = [
       "https://firebasestorage.googleapis.com/v0/b/harshaportfolio-2005.appspot.com/o/portfolio.webp?alt=media&token=eed4dd21-3c8d-434b-9999-127775a460ba",
     tags: ["HTML","CSS","JavaScript","ReactJS","TailwindCSS"],
     category: "web app",
-    github: "",
-    webapp: "",
+    github: "https://github.com/busijoseph826/joseph_portfolio",
+    webapp: "https://joseph-porfolio.vercel.app/",
   },
   
 ];
