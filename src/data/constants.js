@@ -1,11 +1,11 @@
 export const Bio = {
   name: "Busi Joseph",
   roles: [
+    "ML Engineer",
     "Full Stack Developer",
     "Front-End Developer",
-    "Back-End Developer",
-    "ML Engineer",
-    "NLP Engineer"
+    "Back-End Developer"
+    
   ],
   description:"I am Busi Joseph, a dedicated Software Developer with a Bachelor's degree in Computer Science and Engineering (AI & ML). My skill set includes Python, Java, SQL, Cloud Computing, Machine Learning, Artificial Intelligence, and Full Stack Web Development. ",
   github: "https://github.com/busijoseph826",
@@ -330,8 +330,21 @@ export const projects = [
     github: "https://github.com/busijoseph826/joseph_portfolio",
     webapp: "https://joseph-porfolio.vercel.app/",
   },
+
   {
     id: 4,
+    title: "Responsive Food Application",
+    description:
+      "Created a responsive food ordering application using reactjs ",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-70d58.appspot.com/o/food-order.jpg?alt=media&token=83534ff0-5418-431f-b4bc-41caf06e27de",
+    tags: ["HTML","CSS","JavaScript","ReactJS"],
+    category: "web app",
+    github: "https://github.com/busijoseph826/React-food-application",
+    webapp: "https://react-food-application-rouge.vercel.app/",
+  },
+  {
+    id: 5,
     title: "React News Application",
     description:
       "Created a responsive news aggregator application using ReactJS, which fetches and displays news articles from a public API. The application allows users to filter articles based on categories and navigate through articles efficiently using a pagination system. NewsHub features a sleek and modern design with smooth animations and transitions, ensuring an engaging user experience across desktop, tablet, and mobile devices. This project highlights my skills in front-end development, API integration, and responsive design",
@@ -342,6 +355,7 @@ export const projects = [
     github: "https://github.com/busijoseph826/React_News_Application",
     webapp: "",
   },
+
   
 ];
 
