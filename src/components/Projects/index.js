@@ -33,6 +33,13 @@ const Projects = ({openModal,setOpenModal}) => {
             :
             <ToggleButton value="machine learning" onClick={() => setToggle('machine learning')}>MACHINE LEARNING</ToggleButton>
           }
+          <Divider />
+          {toggle === 'natural nanguage processing' ?
+            <ToggleButton active value="natural nanguage processing" onClick={() => setToggle('natural nanguage processing')}>NLP</ToggleButton>
+            :
+            <ToggleButton value="natural nanguage processing" onClick={() => setToggle('natural nanguage processing')}>NLP</ToggleButton>
+          }
+
         </ToggleButtonGroup>
         <CardContainer>
           {toggle === 'all' && projects
