@@ -7,7 +7,7 @@ export const Bio = {
     "Back-End Developer"
     
   ],
-  description:"I am Busi Joseph, a dedicated Software Developer with a Bachelor's degree in Computer Science and Engineering (AI & ML). My skill set includes Python, Java, SQL, Cloud Computing, Machine Learning, Artificial Intelligence, and Full Stack Web Development. ",
+  description:"I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things",
   github: "https://github.com/busijoseph826",
   resume:
     "https://drive.google.com/file/d/1L50-auXHEo4p6uKNw0aP6xJ2hWkhG4Lv/view?usp=sharing",
@@ -353,6 +353,18 @@ export const projects = [
     tags: ["HTML","CSS","JavaScript","ReactJS","TailwindCSS"],
     category: "web app",
     github: "https://github.com/busijoseph826/React_News_Application",
+    webapp: "",
+  },
+  {
+    id: 6,
+    title: "Email Automation Bot",
+    description:
+      "The Email Automation Bot is an intelligent Python application designed to streamline the process of sending emails using voice commands. Utilizing advanced speech recognition and text-to-speech technologies, this bot allows users to send emails hands-free by simply speaking their commands.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-70d58.appspot.com/o/Email-automation.webp?alt=media&token=94395a17-f6bc-48ee-a1a5-a3e4695accdf",
+    tags: ["Python"],
+    category: "natural nanguage processing",
+    github: "https://github.com/busijoseph826/Email_Automation_Bot",
     webapp: "",
   },
 
