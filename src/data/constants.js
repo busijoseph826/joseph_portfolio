@@ -10,7 +10,7 @@ export const Bio = {
   description:"I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things",
   github: "https://github.com/busijoseph826",
   resume:
-    "https://drive.google.com/file/d/1L50-auXHEo4p6uKNw0aP6xJ2hWkhG4Lv/view?usp=sharing",
+    "https://firebasestorage.googleapis.com/v0/b/portfolio-70d58.appspot.com/o/Busi-Joseph.pdf?alt=media&token=3d26603a-84f0-48b7-b0cd-1c0cf956d358",
   linkedin: "https://www.linkedin.com/in/joseph826",
   twitter: "",
   insta: "",
