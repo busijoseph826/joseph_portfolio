@@ -367,6 +367,18 @@ export const projects = [
     github: "https://github.com/busijoseph826/Email_Automation_Bot",
     webapp: "",
   },
+  {
+    id: 7,
+    title: "GiPHY-CLONE",
+    description:
+      "A Giphy clone is an application that allows users to search, share, and download GIFs",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-70d58.appspot.com/o/giphy.png?alt=media&token=3fcaf9a2-69ee-4763-8ee9-f47fe2f02838",
+    tags: ["ReactJS","TailWindCSS","HTML","Java Script"],
+    category: "web app",
+    github: "https://github.com/busijoseph826/Giphy-Clone",
+    webapp: "",
+  },
 
   
 ];
